@@ -1,4 +1,4 @@
-## Day 1 at Ryaaz
+## Day 1 at Ryaz
 
 Today I learned various things and I really enjoyed every moment in the process.
 
