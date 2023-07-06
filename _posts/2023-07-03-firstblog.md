@@ -2,9 +2,9 @@
 
 Today I learned various things and I really enjoyed every moment in the process.
 
-**Firstly** I learned how to access the system configurations.
+**_Firstly_** I learned how to access the system configurations.
 
-THIS IS THE RESULT
+THIS IS THE RESULT:
 
 SYSTEM CONFIGURATION
 Memory- 16.0 GIB
@@ -16,43 +16,43 @@ OS type- 64- bit
 Windowing system- Wayland
 Kernal Version - Linux 6.2.0-24-generic
 
-It is done by going to "settings" and clicking "about"
+- It is done by going to "settings" and clicking "about".
 
-**Secondly** I learned to install github and learnt necessary terms and concepts as follows:
+**_Secondly_** I learned to install github and learnt necessary terms and concepts as follows:
 
-_The First Step_
+**The First Step**
 
 1. We have to create repositary like using hello -world
 
-2. select **add a readme file**
+2. select **_add a readme file_**
 
 3. Click Create Repositary.
 
-_The Second Step_
+**The Second Step**
 
 1. It is to create a branch by clicking on the code tab of Hello -world repository 
 
-2. click **Mains**
+2. click **_Mains_**
 
 3. Type a branch name *_README-EDITS_* and click Create branch.
 
-_The Third Step_
+**The Third Step**
 
 1. Making and committing changes by clicking on readme.md File under Readme-edits.
 
-2. Edit and click on **Commit Changes**
+2. Edit and click on **_Commit Changes_**
 
-3. Use *_PROPOSE CHANGES_* Box and write commit message. and click propose changes.
+3. Use **_PROPOSE CHANGES_** Box and write commit message. and click propose changes.
 
-_The Fourth Step_
+**The Fourth Step**
 
 1. It is to open a pull requestand merging it by clicking MERGE PULL REQUEST.
 
-2. Click **Confirm Merge** and delete branch.
+2. Click **_Confirm Merge_** and delete branch.
 
 3. Now changes are made in main and thr readme-edits branch can be deleted safely.
 
-_The last Step_
+**The last Step**
 
 1. it is to create blog and post it by creating repositary .
 
